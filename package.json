@@ -1,0 +1,24 @@
+{
+  "name": "anilist-card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saphiruby/anilist-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saphiruby/anilist-card/issues"
+  },
+  "homepage": "https://github.com/Saphiruby/anilist-card#readme",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "graphql-request": "^7.4.0"
+  }
+}
