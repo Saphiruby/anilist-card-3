@@ -58,24 +58,6 @@ extraLarge
 
 
 
-manga {
-
-nodes {
-
-title {
-romaji
-}
-
-coverImage {
-extraLarge
-}
-
-}
-
-}
-
-
-
 characters {
 
 nodes {
