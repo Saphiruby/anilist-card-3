@@ -3,7 +3,7 @@ import { createCanvas, loadImage } from "canvas";
 import fs from "fs";
 
 
-const USERNAME = "Saphiruby";
+const USERNAME = "AdemYzz";
 
 
 const query = gql`
@@ -203,7 +203,7 @@ y
 
 
 text(
-"Saphiruby",
+"AdemYzz",
 70,
 80,
 55,
