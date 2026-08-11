@@ -511,15 +511,6 @@ user.favourites.anime.nodes.slice(0,8),
 
 
 await drawRow(
-"Favorite Manga",
-user.favourites.manga.nodes.slice(0,8),
-720
-);
-
-
-
-
-await drawRow(
 "Favorite Characters",
 user.favourites.characters.nodes.slice(0,8),
 940,
