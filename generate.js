@@ -97,7 +97,7 @@ const user = data.User;
 
 
 const WIDTH = 1200;
-const HEIGHT = 1250;
+const HEIGHT = 970;
 
 
 const canvas = createCanvas(
@@ -495,7 +495,7 @@ user.favourites.anime.nodes.slice(0,8),
 await drawRow(
 "Favorite Characters",
 user.favourites.characters.nodes.slice(0,8),
-940,
+720,
 true
 );
 
